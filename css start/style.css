@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    color: rgb(4, 3, 4);
+}
+
+body{
+    /* background-image: url(/bike.jpg);
+    background-repeat: no-repeat; */
+    background-color: rgb(10, 247, 228);
+    opacity: 0.9;
+}

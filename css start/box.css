@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(183, 226, 226);
+}
+.bx1{
+    border: 2px solid black;
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(214, 186, 150);
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.bx1 h1{
+    text-shadow: 2px 2px 2px rgb(50, 50, 2);
+}
+.bx1 p{
+    border: solid 2px black;
+}
+.bx2{
+    border: 2px solid rgb(167, 32, 32);
+    width: fit-content;
+    height: fit-content;
+    margin: 0%;
+    padding: 0%;
+    /* position: fixed; */
+    background-color: rgb(244, 219, 219);
+    /* text-indent: 2px; */
+    
+}
+.bx3{
+    border: 2px solid black;
+    width: fit-content;
+    height: fit-content;
+}
+#a1:hover{
+    color: blue;
+}
+#a2:visited{
+    font-size: 70px;
+}
+/* a:hover{
+    color: aqua;
+    font-size: larger;
+    text-size-adjust: 20px;
+} */
